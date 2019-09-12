@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/vapor/bits.git",
         "state": {
           "branch": null,
-          "revision": "c32f5e6ae2007dccd21a92b7e33eba842dd80d2f",
-          "version": "1.1.0"
+          "revision": "03079476b04139a8b744ad96f975176df5ae12bc",
+          "version": "1.1.1"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/vapor/core.git",
         "state": {
           "branch": null,
-          "revision": "1b593cd335b465b92cc530b5125f4712cc2827cc",
-          "version": "2.1.1"
+          "revision": "aa15871311b497a24a7f0e96b1ae6865dd600818",
+          "version": "2.2.1"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/vapor/debugging.git",
         "state": {
           "branch": null,
-          "revision": "49c5e8f0a7cb5456a8f7c72c6cd9f1553e5885a8",
-          "version": "1.1.0"
+          "revision": "fc5a27d6eb236141dc24e5f14eedaa2e035ae7b3",
+          "version": "1.1.1"
         }
       },
       {
